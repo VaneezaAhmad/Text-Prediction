@@ -18,3 +18,15 @@ For modeling of the word predictions, Multiple Recurrent Neural Networks was cre
 
 ## Evaluation
 The top 5 predicted words from the best model were used to evaluate the performance. The Metric used to evaluate model is keras' top k categorical accuracy. The best model had an accuracy of over 90%. Predicting 3-4 out of 5 words correctly.
+
+## Further Steps
+1. Get more informal coversation data. 
+2. Integrating into keyboards. 
+
+## Repository Navigation
+1. [Urdu_predictive_text](https://github.com/VaneezaAhmad/Text-Prediction/blob/main/Urdu_predictive_text.ipynb)Main technical notebook 
+2. [Urdu-data](https://github.com/VaneezaAhmad/Text-Prediction/blob/main/Urdu-data/data.txt)Data files
+3. Saved models
+4. [Predictive_text](https://github.com/VaneezaAhmad/Text-Prediction/blob/main/predictive_text.ipynb)English predictions notebook
+5. [English-data](https://github.com/VaneezaAhmad/Text-Prediction/blob/main/English-data/wonderland.txt)English Data
+6. Presentation
