@@ -21,12 +21,11 @@ The top 5 predicted words from the best model were used to evaluate the performa
 
 ## Further Steps
 1. Get more informal coversation data. 
-2. Integrating into keyboards. 
+2. Integrating into keyboards, chatbots, virtual assistants. 
 
 ## Repository Navigation
-1. [Urdu_predictive_text](https://github.com/VaneezaAhmad/Text-Prediction/blob/main/Urdu_predictive_text.ipynb)Main technical notebook 
-2. [Urdu-data](https://github.com/VaneezaAhmad/Text-Prediction/blob/main/Urdu-data/data.txt)Data files
-3. Saved models
-4. [Predictive_text](https://github.com/VaneezaAhmad/Text-Prediction/blob/main/predictive_text.ipynb)English predictions notebook
-5. [English-data](https://github.com/VaneezaAhmad/Text-Prediction/blob/main/English-data/wonderland.txt)English Data
-6. Presentation
+1. [Urdu_predictive_text](https://github.com/VaneezaAhmad/Text-Prediction/blob/main/Urdu_predictive_text.ipynb): Main technical notebook 
+2. [Urdu-data](https://github.com/VaneezaAhmad/Text-Prediction/blob/main/Urdu-data/data.txt): Data files
+3. [Predictive_text](https://github.com/VaneezaAhmad/Text-Prediction/blob/main/predictive_text.ipynb): English predictions notebook
+4. [English-data](https://github.com/VaneezaAhmad/Text-Prediction/blob/main/English-data/wonderland.txt): English Data
+5. [Presentation](https://docs.google.com/presentation/d/1yRDKk7GH60GliDWCCqYwnU2MjQ2-2iMeTHeyJNUe01k/edit#slide=id.ge5366def7b_0_0)
