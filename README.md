@@ -20,6 +20,8 @@ Data was collected from https://www.kaggle.com/disisbig/urdu-wikipedia-articles.
 ## Modeling
 For modeling of the word predictions, Multiple Recurrent Neural Networks was created. Keras Sequential model was used. First a simple model was created using one LSTM, one dense and one output layer. In order to increase the performance of the model, more LSTM layers, Dense Layers, Dropout Layers for regularization and output layer were added.
 
+![Models](https://github.com/VaneezaAhmad/Text-Prediction/blob/main/Images/best.png)
+
 ## Evaluation
 The top 5 predicted words from the best model were used to evaluate the performance. The Metric used to evaluate model is keras' top k categorical accuracy. The best model had an accuracy of over 90%. Predicting 3-4 out of 5 words correctly.
 ![prediction](https://github.com/VaneezaAhmad/Text-Prediction/blob/main/Images/prediction.png)
